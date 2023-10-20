@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am student of Machine Learning Analyst at Norquest collage. I have completed my high schooling back in India with Non - medical. Currently I am working on real life Project of Edmonton Food Drive
 <!--
 **noordhaliwal02/noordhaliwal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
